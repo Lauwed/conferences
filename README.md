@@ -2,10 +2,10 @@
 
 ## 2023
 
-### AFUP Day (🌍 Lille) - Où sont passées les femmes de l'histoire de la tech ?
+### AFUP Meetup (🌍 Poitiers) - Où sont passées les femmes de l'histoire de la tech ?
 - 🎫 [Slides](https://lauwed.github.io/conferences/2023/afup-day-lille-femmes-histoire-informatique.html)
 
-### AFUP Meetup (🌍 Poitiers) - Où sont passées les femmes de l'histoire de la tech ?
+### AFUP Day (🌍 Lille) - Où sont passées les femmes de l'histoire de la tech ?
 - 🎫 [Slides](https://lauwed.github.io/conferences/2023/afup-day-lille-femmes-histoire-informatique.html)
 
 ## 2022
