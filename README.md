@@ -1,5 +1,10 @@
 # Conferences 🎤
 
+## 2024
+
+### FOSDEM 2024 (🌍 Brussels) - Conference - Where have the women of tech  history gone?
+- 🎫 [Slides](https://lauwed.github.io/conferences/2024/fosdem-2024-women-computer-science-history.html)
+
 ## 2023
 
 ### AFUP Meetup (🌍 Poitiers) - Où sont passées les femmes de l'histoire de la tech ?
