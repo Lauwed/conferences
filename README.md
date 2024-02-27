@@ -4,6 +4,7 @@
 
 ### FOSDEM 2024 (🌍 Brussels) - Conference - Where have the women of tech  history gone?
 - 🎫 [Slides](https://lauwed.github.io/conferences/2024/fosdem-2024-women-computer-science-history.html)
+- 🎥 [Video](https://fosdem.org/2024/schedule/event/fosdem-2024-2850-where-have-the-women-of-tech-history-gone-/)
 
 ## 2023
 
