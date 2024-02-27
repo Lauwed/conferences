@@ -2,6 +2,9 @@
 
 ## 2024
 
+### BeJS Meetup (🌍 Brussels) - Conference - Explore Twitch API  with ExpressJS, NodeJS & Web Sockets
+- 🎫 [Slides](https://lauwed.github.io/conferences/2024/bejs-meetup-twitch-api-web-sockets.html)
+
 ### FOSDEM 2024 (🌍 Brussels) - Conference - Where have the women of tech  history gone?
 - 🎫 [Slides](https://lauwed.github.io/conferences/2024/fosdem-2024-women-computer-science-history.html)
 - 🎥 [Video](https://fosdem.org/2024/schedule/event/fosdem-2024-2850-where-have-the-women-of-tech-history-gone-/)
