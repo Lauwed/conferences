@@ -2,6 +2,9 @@
 
 ## 2024
 
+### JPO Haute École Albert Jacquard (🌍 Namur) - Où sont passées les femmes de l'histoire de la tech ?
+- 🎫 [Slides](https://lauwed.github.io/conferences/2024/jpo-heaj-namur-femmes-histoire-informatique.html)
+
 ### BeJS Meetup (🌍 Brussels) - Conference - Explore Twitch API  with ExpressJS, NodeJS & Web Sockets
 - 🎫 [Slides](https://lauwed.github.io/conferences/2024/bejs-meetup-twitch-api-web-sockets.html)
 - 📁 [Researches about WebSockets](https://tender-clavicle-239.notion.site/Researches-about-WebSockets-984022c5009f46ee844b75d48f3e2ea8)
