@@ -7,7 +7,7 @@
 
 ### DORS/CLUC 2024 (🌍 Zagreb) - Conference - Where have the women of tech  history gone?
 - 🎫 [Slides](https://lauwed.github.io/conferences/2024/dors-cluc-2024-women-computer-science-history.html)
-- 
+
 ### JPO Haute École Albert Jacquard (🌍 Namur) - Où sont passées les femmes de l'histoire de la tech ?
 - 🎫 [Slides](https://lauwed.github.io/conferences/2024/jpo-heaj-namur-femmes-histoire-informatique.html)
 
