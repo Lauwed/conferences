@@ -10,7 +10,7 @@
 ### Incinga Summit 2024 (🌍 Berlin) - Conference - Where have the women of tech history gone?
 
 - 🎫 [Slides](https://lauwed.github.io/conferences/2024/incinga-summit-2024-women-computer-science-history.html)
-- - 🎥 [Video](https://www.youtube.com/watch?v=r-cF7jGL43c)
+- 🎥 [Video](https://www.youtube.com/watch?v=r-cF7jGL43c)
 
 ### AFUP Day 2024 (🌍 Lille) - Conference - J'ai testé API Platform V3, qu'est ce que j'en pense en tant que développeuse C# ?
 
